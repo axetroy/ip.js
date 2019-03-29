@@ -9,7 +9,6 @@ http
       req.connection.remoteAddress ||
       req.socket.remoteAddress ||
       req.connection.socket.remoteAddress;
-    console.log(`request by ${ip}`);
     res.writeHead(200, { "Content-Type": "text/plain" });
     res.end(ip);
   })
