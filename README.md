@@ -1,5 +1,7 @@
 ## Public API to get your IP for everyone
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/axetroy/ip.svg)](https://greenkeeper.io/)
+
 ```bash
 curl http://ip.axetroy.xyz
 
