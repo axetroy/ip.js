@@ -1,9 +1,9 @@
 ## Public API to get your IP for everyone
 
 ```bash
-curl http://ip.axetroy.xyz
+curl https://ip.axetroy.xyz
 
-wget -qO- http://ip.axetroy.xyz
+wget -qO- https://ip.axetroy.xyz
 ```
 
 ## License
